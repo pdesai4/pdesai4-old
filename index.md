@@ -18,8 +18,8 @@ I am an extremely dedicated individual that is constantly working to improve mys
 
 ##### Software Development Engineering Intern | Amazon, 06/2017 – 08/2017
 
-- I Was a part of the FireTV team, independently working on an open source web application template for tablets
-- Implemented touch module which recognizes touch gestures for web applications on the mobile platform conforming [Flux architecture](https://facebook.github.io/flux/)
+- Was a part of the FireTV team, independently working on an open source web application template for tablets
+- Implemented touch module which recognizes touch gestures for web applications on the mobile platform conforming to [Flux architecture](https://facebook.github.io/flux/)
 
 ------
 
