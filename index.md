@@ -2,7 +2,7 @@
 
 Looking for full-time opportunities
 
-pdesai4@binghamton.edu | [LinkedIn](https://www.linkedin.com/in/priyankadesai04) | [GitHub](https://github.com/pdesai4) | [Millbrae, CA](https://goo.gl/maps/uLtt4EstATn)
+[pdesai4@binghamton.edu](mailto:pdesai4@binghamton.edu) | [LinkedIn](https://www.linkedin.com/in/priyankadesai04) | [GitHub](https://github.com/pdesai4) | [Millbrae, CA](https://goo.gl/maps/uLtt4EstATn)
 
 I am an extremely dedicated individual that is constantly working to improve myself. Seeking a position where I can apply my skills, face challenges and get an opportunity to learn and grow.
 
